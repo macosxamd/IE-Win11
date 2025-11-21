@@ -1,0 +1,4 @@
+CreateObject("InternetExplorer.Application").Visible=true
+
+
+Save as .vbs
